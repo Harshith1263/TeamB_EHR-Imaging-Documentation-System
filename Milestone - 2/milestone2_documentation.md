@@ -1,7 +1,8 @@
 # Milestone 2 — Detailed Documentation
 
-Project:EHR Imaging Documentation System – Image Enhancement
-Team:Team B
+Project: EHR Imaging Documentation System – Image Enhancement
+
+Team: Team B
 
 ---
 
@@ -9,9 +10,13 @@ Team:Team B
 
 - Project Title: EHR Imaging Documentation System – Image Enhancement
 - Team Name & Task Division -Members: Team B
+  
   Preprocessing of Images - Pragya and Bhoomika
+  
   Technique for Enhancement - Hamsini and Harshith
+  
   Validate the Improvement - Shreepurna and Chandra Sekhar
+  
   Documentation work - Iswarya and Anusha
 
 - Mentor: Aryan Khurana
@@ -178,8 +183,6 @@ We calculated quality metrics for validation:
 
 ## 7. Conclusion
 
-### Conclusion
-
 - Successfully implemented basic enhancement techniques.
 - Results show clear improvement in visibility and diagnostic usefulness.
 
@@ -189,3 +192,4 @@ We calculated quality metrics for validation:
 
 - OpenCV Documentation – [https://docs.opencv.org/](https://docs.opencv.org/)
 - Scikit-image Documentation – [https://scikit-image.org/](https://scikit-image.org/)
+
