@@ -1,5 +1,7 @@
 # TeamB_EHR-Imaging-Documentation-System
 
+# Milestone 1:
+
 ## Steps to Prepare the Dataset
 
 1. **Collect datasets**
@@ -28,24 +30,128 @@
 
 ## Project Folder Structure
 
-Enhancing_EHRs_with_GenAI/
-│
-├── data/
-│ ├── images/ # MRI and CT scan images
-│ │ ├── MRI_001.png
-│ │ ├── MRI_002.png
-│ │ └── CT_001.png
-│ │
-│ ├── ehr_notes/ # Clinical text notes
-│ │ ├── note_001.txt
-│ │ ├── note_002.txt
-│ │ └── note_003.txt
-│ │
-│ └── mapping.csv # Mapping between images and notes
-│
-├── docs/
-│ ├── dataset_sources.md # Information about data sources
-│ ├── cleaning_steps.md # Steps for preprocessing and cleaning data
-│ └── challenges.md # Challenges faced during data collection and processing
-│
-└── README.md # Project overview and structure
+TeamB_EHR-Imaging-Documentation-System/
+
+├──  data/
+
+│    ├── images/
+
+│    │      ├── MRI_001.png
+
+│    │      ├── MRI_002.png
+
+│    │      └── CT_001.png
+
+│    ├──    ehr_notes/
+
+│           ├── note_001.txt
+
+│           ├── note_002.txt
+
+│           └── note_003.txt
+
+│    └── mapping.csv
+
+├──    docs/
+
+│      ├── dataset_sources.md
+
+│      ├── cleaning_steps.md
+
+│      └── challenges.md
+
+└── README.md
+
+
+
+
+# Milestone 2: Medical Imaging Enhancement
+
+**Project Overview**  
+This milestone focuses on enhancing medical images (X-rays, MRIs, CT scans) using **SRCNN (Super-Resolution Convolutional Neural Network)**.  
+The goal is to improve image clarity, remove blur/noise, and provide healthcare professionals with diagnostic-quality visuals before storing them in Electronic Health Records (EHRs).
+
+## Steps Completed in Milestone 2
+
+### Dataset Preparation
+
+- Used sample medical images stored in `data/images/`.
+- Mapping done via `mapping.csv` for easier identification.
+- Generated **HQ–LQ paired datasets** by applying Gaussian blur.
+- Extracted patches (e.g., 32×32) for efficient training.
+
+### Preprocessing
+
+- Converted to grayscale when needed.
+- Normalized pixel values to range `[0, 1]`.
+- Created train/test splits.
+
+### Enhancement Technique Applied
+
+- **SRCNN (Super-Resolution Convolutional Neural Network):**
+  - Input → Low-quality (blurred) image patches.
+  - Output → Reconstructed high-quality patches.
+  - Model trained on HQ–LQ patch pairs.
+  - Saved best weights for reconstruction.
+
+### Validation
+
+- Compared **Original vs Blurred vs Enhanced** images visually.
+- Calculated **PSNR (Peak Signal-to-Noise Ratio)** and **SSIM (Structural Similarity Index)**.
+
+## Challenges Faced
+
+- Training required GPU (Colab used).
+- Some results initially blurred; patch extraction improved learning.
+- Handling large image sets was time-consuming.
+
+## Results
+
+- **Visual Improvement:**  
+  Enhanced images show clearer details compared to blurred inputs.
+
+- **Quantitative Improvement:**
+  - **PSNR:** Increased, showing better image quality.
+  - **SSIM:** Higher values, closer to original HQ images.
+
+## Conclusion
+
+- Successfully implemented **SRCNN-based medical image enhancement**.
+- Results demonstrated clear improvements in visibility and diagnostic usefulness.
+- Enhanced images will strengthen the reliability of medical data stored in EHR systems.
+
+## Folder Structure
+
+Milestone-2/
+
+├── Preprocessed/
+
+├── dataset/
+
+├── test/
+
+├── train/
+
+├── Enhancement_Techniques/
+
+├── Validation/
+
+├── Challenges_Faced/
+
+├──   images_for_doc/
+
+│     ├── T1.jpeg
+
+│     ├── T2.jpeg
+
+│     ├── T3.jpeg
+
+│     ├── T4.jpeg
+
+│     └── T5.jpeg
+
+├── milestone2_documentation.md
+
+└── Tasks_Distribution_for_Milestone-2/
+
+
