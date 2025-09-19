@@ -1,0 +1,533 @@
+Filename,Modality,Diagnosis,ICD10_Code,Dataset
+benign (44).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (44)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (45).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (45)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (46).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (46)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (47).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (47)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (48).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (48)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (49).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (49)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (5).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (5)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (50).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (50)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (51).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (51)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (52).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (52)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (53).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (53)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (54).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (54)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (54)_mask_1.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (55).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (55)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (56).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (56)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (57).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (57)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (58).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (58)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (58)_mask_1.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (59).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (59)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (6).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (6)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (60).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (60)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (61).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (61)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (62).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (62)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (7).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (7)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (8).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (8)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (9).png,MRI,benign,D33.0,Brain_Tumour_MRI
+benign (9)_mask.png,MRI,benign,D33.0,Brain_Tumour_MRI
+malignant (71)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (72).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (72)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (73).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (73)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (74).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (74)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (75).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (75)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (76).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (76)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (77).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (77)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (78).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (78)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (79).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (79)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (8).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (8)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (80).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (80)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (81).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (81)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (82).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (82)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (83).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (83)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (84).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (84)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (85).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (85)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (86).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (86)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (87).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (87)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (88).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (88)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (89).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (89)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (9).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (9)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (90).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (90)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (91).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (91)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (92).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (92)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (93).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (93)_mask.png,MRI,malignant,C71.9,Brain_Tumour_MRI
+malignant (94).png,MRI,malignant,C71.9,Brain_Tumour_MRI
+normal (22).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (22)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (23).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (23)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (24).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (24)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (25).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (25)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (26).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (26)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (27).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (27)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (28).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (28)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (29).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (29)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (3).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (3)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (30).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (30)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (31).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (31)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (32).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (32)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (33).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (33)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (34).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (34)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (35).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (35)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (4).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (4)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (5).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (5)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (6).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (6)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (7).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (7)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (8).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (8)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (9).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (9)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (96).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (96)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (97).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (97)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (98).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (98)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (99).png,MRI,normal,Z00.0,Brain_Tumour_MRI
+normal (99)_mask.png,MRI,normal,Z00.0,Brain_Tumour_MRI
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_001.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_002.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_007.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_011.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_014.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_015.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_018.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_022.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_023.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_033.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Adenocarcinoma_left.lower.lobe_t2_n0_m0_ib_035.png,CT,Adenocarcinoma left.lower.lobe t2 n0 m0 ib,C34.1,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_003.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_007.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_008.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_009.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_012.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_014.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_015.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_019.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_021.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_024.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Large.cell.carcinoma_left.hilum_t2_n2_m0_iiia_026.png,CT,Large.cell.carcinoma left.hilum t2 n2 m0 iiia,C34.9,Chest_CT_scan
+Normal_001.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_003.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_004.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_005.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_008.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_013.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_015.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_018.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_020.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_023.png,CT,Normal,Z00.0,Chest_CT_scan
+Normal_025.png,CT,Normal,Z00.0,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_001.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_002.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_003.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_004.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_005.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_006.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_007.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_008.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_009.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_010.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Squamous.cell.carcinoma_left.hilum_t1_n2_m0_iiia_011.png,CT,Squamous.cell.carcinoma left.hilum t1 n2 m0 iiia,C34.3,Chest_CT_scan
+Normal_002.png,X-ray,Normal,Z00.0,chest_xray
+Normal_004.png,X-ray,Normal,Z00.0,chest_xray
+Normal_005.png,X-ray,Normal,Z00.0,chest_xray
+Normal_008.png,X-ray,Normal,Z00.0,chest_xray
+Normal_009.png,X-ray,Normal,Z00.0,chest_xray
+Normal_010.png,X-ray,Normal,Z00.0,chest_xray
+Normal_011.png,X-ray,Normal,Z00.0,chest_xray
+Normal_012.png,X-ray,Normal,Z00.0,chest_xray
+Normal_013.png,X-ray,Normal,Z00.0,chest_xray
+Normal_014.png,X-ray,Normal,Z00.0,chest_xray
+Normal_015.png,X-ray,Normal,Z00.0,chest_xray
+Normal_016.png,X-ray,Normal,Z00.0,chest_xray
+Normal_017.png,X-ray,Normal,Z00.0,chest_xray
+Normal_018.png,X-ray,Normal,Z00.0,chest_xray
+Normal_019.png,X-ray,Normal,Z00.0,chest_xray
+Normal_020.png,X-ray,Normal,Z00.0,chest_xray
+Normal_022.png,X-ray,Normal,Z00.0,chest_xray
+Normal_023.png,X-ray,Normal,Z00.0,chest_xray
+Normal_024.png,X-ray,Normal,Z00.0,chest_xray
+Normal_025.png,X-ray,Normal,Z00.0,chest_xray
+Normal_026.png,X-ray,Normal,Z00.0,chest_xray
+Normal_027.png,X-ray,Normal,Z00.0,chest_xray
+Normal_028.png,X-ray,Normal,Z00.0,chest_xray
+Normal_029.png,X-ray,Normal,Z00.0,chest_xray
+Normal_030.png,X-ray,Normal,Z00.0,chest_xray
+Normal_031.png,X-ray,Normal,Z00.0,chest_xray
+Normal_032.png,X-ray,Normal,Z00.0,chest_xray
+Normal_033.png,X-ray,Normal,Z00.0,chest_xray
+Normal_034.png,X-ray,Normal,Z00.0,chest_xray
+Normal_035.png,X-ray,Normal,Z00.0,chest_xray
+Normal_036.png,X-ray,Normal,Z00.0,chest_xray
+Normal_037.png,X-ray,Normal,Z00.0,chest_xray
+Normal_038.png,X-ray,Normal,Z00.0,chest_xray
+Normal_039.png,X-ray,Normal,Z00.0,chest_xray
+Normal_040.png,X-ray,Normal,Z00.0,chest_xray
+Normal_041.png,X-ray,Normal,Z00.0,chest_xray
+Normal_042.png,X-ray,Normal,Z00.0,chest_xray
+Normal_043.png,X-ray,Normal,Z00.0,chest_xray
+Normal_044.png,X-ray,Normal,Z00.0,chest_xray
+Normal_045.png,X-ray,Normal,Z00.0,chest_xray
+Normal_046.png,X-ray,Normal,Z00.0,chest_xray
+Normal_047.png,X-ray,Normal,Z00.0,chest_xray
+Normal_048.png,X-ray,Normal,Z00.0,chest_xray
+Normal_049.png,X-ray,Normal,Z00.0,chest_xray
+Normal_050.png,X-ray,Normal,Z00.0,chest_xray
+Normal_051.png,X-ray,Normal,Z00.0,chest_xray
+Pneumonia_001.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_002.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_003.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_004.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_005.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_006.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_007.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_008.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_009.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_010.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_011.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_012.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_013.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_014.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_015.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_016.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_017.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_018.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_019.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_020.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_021.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_022.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_023.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_024.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_025.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_026.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_027.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_028.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_029.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_030.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_031.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_032.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_033.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_034.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_035.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_036.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_037.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_038.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_039.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_040.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_041.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_042.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_043.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_044.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_045.png,X-ray,Pneumonia,J18.9,chest_xray
+Pneumonia_046.png,X-ray,Pneumonia,J18.9,chest_xray
+Benign_001.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_002.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_003.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_004.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_005.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_006.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_007.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_008.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_009.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_010.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_011.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_012.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_013.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_015.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_016.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_017.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_019.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_022.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_023.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_024.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_025.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_026.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_027.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_029.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_030.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_031.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_033.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_034.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_035.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_036.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_038.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_039.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_040.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_041.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_042.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_043.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_044.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_045.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_046.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_047.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_048.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Benign_049.png,Ultrasound,Benign,D33.0,fetus_ultrasound
+Malignant_001.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_002.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_003.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_004.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_005.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_006.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_007.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_008.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_009.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_010.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_011.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_012.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_013.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_014.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_015.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_016.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_017.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_018.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_019.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_020.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_021.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_022.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_023.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_024.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_025.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_026.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_027.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_028.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_029.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_030.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_031.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_032.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_033.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_034.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_035.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_036.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_037.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_038.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_039.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_040.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_041.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Malignant_042.png,Ultrasound,Malignant,C71.9,fetus_ultrasound
+Normal_001.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_002.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_003.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_004.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_005.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_006.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_007.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_008.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_009.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_011.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_012.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_013.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_015.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_017.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_019.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_021.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_022.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_023.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_024.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_025.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_026.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_028.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_029.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_030.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_031.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_033.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_034.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_035.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_038.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_040.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_041.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_042.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_043.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_044.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_045.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_046.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_047.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_048.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_049.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_050.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_051.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_052.png,Ultrasound,Normal,Z00.0,fetus_ultrasound
+Normal_001.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_002.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_003.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_004.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_005.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_006.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_007.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_008.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_009.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_010.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_011.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_012.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_013.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_014.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_015.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_016.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_017.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_019.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_020.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_021.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_022.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_023.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_024.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_025.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_026.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_027.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_028.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_029.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_030.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_031.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_032.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_033.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_034.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_035.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_036.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_037.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_038.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_039.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_040.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_041.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_042.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_043.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_044.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_045.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_046.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Normal_047.png,Ultrasound,Normal,Z00.0,kidney_stone_ultrasound
+Stone_001.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_002.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_003.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_004.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_005.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_006.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_007.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_009.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_011.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_012.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_013.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_014.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_015.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_016.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_017.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_018.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_019.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_021.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_022.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_023.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_024.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_025.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_026.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_027.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_028.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_029.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_030.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_031.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_032.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_033.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_034.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_035.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_036.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_037.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_038.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_039.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_040.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_041.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_042.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_043.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_044.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_045.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_046.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_047.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_048.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Stone_049.png,Ultrasound,Stone,Unknown,kidney_stone_ultrasound
+Fractured_001.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_003.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_006.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_008.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_012.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_016.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_020.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_023.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_025.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_029.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_034.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_037.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_043.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Fractured_049.png,X-ray,Fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_001.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_003.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_005.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_009.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_015.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_017.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_021.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_025.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_026.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_028.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_032.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_038.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_047.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
+Not_fractured_049.png,X-ray,Not fractured,Unknown,Bone_Fracture_Binary_classification
